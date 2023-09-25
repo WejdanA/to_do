@@ -6,7 +6,7 @@ Hi, my name is Wejdan Alghamdi and I am interested in web development. I am curr
 
 ## Skills
 
-[Python] (https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+[Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 In addition to the basic requirements, enhance your readme file with the following information:
 
 1. Create a new branch named "git-learning" and switch to that branch.
